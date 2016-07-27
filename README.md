@@ -3,7 +3,7 @@ It's a plugin about tabChange;
 
 这是自己写的一个简易Tab切换的插件;
 
-查看demo：http://htmlpreview.github.io/?https://github.com/zaoansijia/tabChangePlugin/blob/master/tabChange.html;
+<a href='http://htmlpreview.github.io/?https://github.com/zaoansijia/tabChangePlugin/blob/master/tabChange.html'>点击查看demo</a>
 
 
 调用方法：
